@@ -2,7 +2,7 @@
 
 #### Install Package
 ```
-composer require mystore/mystore-api-sdk
+composer require oliverlundquist/mystore-api-sdk
 ```
 
 #### Usage
