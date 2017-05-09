@@ -1,6 +1,7 @@
 {
     "name": "oliverlundquist/mystore-api-sdk",
     "description": "Mystore SDK for Mystore API",
+    "license": "MIT",
     "authors": [
         {
             "name": "Oliver Lundquist",
