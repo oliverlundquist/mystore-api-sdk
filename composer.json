@@ -1,0 +1,23 @@
+{
+    "name": "oliverlundquist/mystore-api-sdk",
+    "description": "Mystore SDK for Mystore API",
+    "authors": [
+        {
+            "name": "Oliver Lundquist",
+            "email": "oliver@mystore.no"
+        }
+    ],
+    "require": {
+        "illuminate/container": "^5.4",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+      "psr-4": { "MystoreApiSdk\\": "src/" }
+    },
+    "autoload-dev": {
+      "psr-4": { "MystoreApiSdk\\": "tests/" }
+    }
+}
